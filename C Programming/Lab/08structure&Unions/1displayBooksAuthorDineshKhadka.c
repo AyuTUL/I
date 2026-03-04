@@ -25,10 +25,6 @@ void main()
 	printf("Books with author Dinesh Khadka :\n");
 	printf("| %-7s | %-25s | %-20s | %-8s |", "Book Id", "Title", "Author", "Price");
 	for (i = 0; i < 10; i++)
-	{
 		if (strcmp(s[i].author, "Dinesh Khadka") == 0)
-		{
 			printf("\n| %7d | %-25s | %-20s | %8.2f |", s[i].id, s[i].title, s[i].author, s[i].price);
-		}
-	}
 }

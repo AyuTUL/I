@@ -51,15 +51,11 @@ void sort(emp e[], int n)
 	int i, j;
 	emp temp;
 	for (i = 0; i < n - 1; i++)
-	{
 		for (j = 0; j < n - 1 - i; j++)
-		{
 			if (strcmp(e[j].name, e[j + 1].name) > 0)
 			{
 				temp = e[j];
 				e[j] = e[j + 1];
 				e[j + 1] = temp;
 			}
-		}
-	}
 }

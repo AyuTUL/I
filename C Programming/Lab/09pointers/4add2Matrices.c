@@ -67,11 +67,9 @@ void add(int *a[], int *b[], int *s[], int r, int c)
 {
 	int i, j;
 	for (i = 0; i < r; i++)
-	{
 		for (j = 0; j < c; j++)
 		{
 			*(*(s + i) + j) = 0;
 			*(*(s + i) + j) = *(*(a + i) + j) + *(*(b + i) + j);
 		}
-	}
 }

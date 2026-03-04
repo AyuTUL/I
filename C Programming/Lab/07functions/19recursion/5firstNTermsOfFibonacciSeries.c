@@ -6,7 +6,7 @@ void main()
 	int n, i, f;
 	printf("Enter nth term : ");
 	scanf("%d", &n);
-	for (i = 0; i < n; i++)
+	for (i = 1; i <= n; i++)
 	{
 		f = fibo(i);
 		printf("%-6d", f);
@@ -14,9 +14,9 @@ void main()
 }
 int fibo(int i)
 {
-	if (i == 0)
+	if (i == 1)
 		return 0;
-	else if (i == 1)
+	else if (i == 2)
 		return 1;
 	else
 		return (fibo(i - 1) + fibo(i - 2));
