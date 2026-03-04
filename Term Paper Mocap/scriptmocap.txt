@@ -1,0 +1,124 @@
+hello everyone
+i am ayush tuladhar
+i will be giving a presentation on the topic motion cap tech
+
+lets start with the basics
+
+Motion capture commonly known as mocap, is a technology that 
+records motions of objects or people digitally. 
+Cameras and sensors monitor the movement of particular 
+body part and record their positions in space as time passes. 
+then Digital figures are animated using this 
+data to move in a realistic way.
+
+
+mocap technology has evolved over centuries through 
+advancements in spatial measuring,
+ photography, and computing, 
+leading to its wide application in fields such as animation, 
+biomechanics,and entertainment, 
+
+lets move on to its types
+
+mocap systems are categorized into optical and non optical systems
+under optical systems there are 3 types passive a ctive and markerless
+• Passive Marker Systems: Use reflective markers; 
+advantages include high frame rates and no cables required
+• Active Marker Systems: Use LEDs; advantages
+ include high signal-to-noise ratio and minimal marker jitter
+• Markerless Systems: Example - Universal Capture used in The 
+Matrix films for photorealistic results
+
+now non optical system consists of inertial,mechanical,stretch sensors
+and magnetic systems
+• Inertial Systems: Use inertial sensors; advantages 
+include portability and large capture areas
+• Mechanical Systems: Use exoskeletons; advantages 
+include real-time data and no occlusion
+• Stretch Sensors: Flexible and resistant to
+ magnetic interference but have higher latency
+• Magnetic Systems: Use magnetic fields; 
+advantages include real-time monitoring but are 
+vulnerable to interference
+
+
+videwo games
+In these games, mocap is used extensively to capture 
+the detailed performances of actors, 
+ which results in highly realistic and emotionally engaging 
+character interactions,
+  enhancing the storytelling
+experience bring the characters to 
+life, making the game's narrative
+ more immersive and believable for players.
+
+An example of motion capture technology in movies is "Avatar" (2009), directed by James Cameron.
+ In "Avatar," mocap was used to capture the detailed performances
+ of actors, which were then transferred 
+to the computer-generated characters. 
+This allowed for incredibly realistic and expressive
+ alien characters, blending seamlessly 
+with live-action elements and creating a visually stunning 
+and immersive cinematic experience. 
+The success of "Avatar" showcased the potential of mocap in filmmaking, pushing the boundaries of 
+visual effects and character animation.
+
+By capturing and analyzing human movements, mocap 
+can be used to program robots to perform complex 
+tasks with greater precision and fluidity. 
+For example, mocap data can be utilized to teach robots 
+how to mimic human motions in industrial applications
+
+ By capturing detailed movement data, clinicians can an
+alyze a patient's gait, posture, and range of 
+motion, allowing for precise diagnosis and customiz
+ed treatment plans. Mocap is also used to track the 
+progress of rehabilitation, ensuring that therapeutic exercises
+ are effective and making adjustments as
+ needed.  
+
+Results can be obtained with low latency and near-real-time performance.
+ In entertainment applications, this can lower the cost of 
+keyframe-based animation. 
+• Complex movement and realistic physical interactions, 
+such as secondary motions, weight, and 
+force exchange, can be accurately replicated. [5]
+• In comparison to traditional animation approaches, 
+the amount of animation data that can be 
+created in a given period is enormous. This helps 
+with both cost-effectiveness and achieving production
+ deadlines. [2]
+• Free software and third-party solutions can reduce costs.
+
+Data collection and processing necessitate the use of 
+specialized software and hardware.
+• Small productions may find it difficult to afford
+ the necessary software, equipment, and labor.
+• Depending on the camera's field of vision or magnetic distortion,
+ the capture system may have certain space requirements.
+• Movement that violates the rules of law cannot be captured
+which limits creative decisions.
+
+Motion capture technology has evolved into a flexible and indispensable tool with widespread 
+applications in a variety of sectors. Mocap allows us to capture, analyze, and animate human 
+movement with unprecedented realism and precision in a variety of applications, including entertainment 
+and healthcare. As technology advances and the physical and digital worlds blend, motion capture 
+remains at the vanguard of innovation, driving revolutionary change and opening up new avenues for
+ creativity, research, and human expression. This paper demonstrates mocap's long-term significance 
+and impact on how we perceive, interact with, and harness the power of motion.
+
+Motion capture technology has evolved into a flexible and indispensable tool with widespread 
+applications in a variety of sectors. Mocap allows us to capture, analyze, and animate human
+ movement with unprecedented realism and precision in a variety of applications, including 
+entertainment and healthcare. As technology advances and the physical and digital worlds blend, 
+motion capture remains at the vanguard of innovation, driving revolutionary change and opening up
+ new avenues for creativity, research, and human expression. This paper demonstrates mocap's 
+long-term significance 
+and impact on how we perceive, interact with, and harness the power of motion.
+
+
+technology that records motions of objects or people digitally
+
+utilized to provide realistic movement in animation, video games, and motion pictures
+
+evolved over centuries through advancements in spatial measuring, photography, and computing
