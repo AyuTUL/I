@@ -1,5 +1,6 @@
 {
     "code-runner.executorMap": {
+        "c": "cd $dir && powershell -Command \"if (Select-String -Path '$fileName' -Pattern '#include <graphics.h>' -Quiet) { g++ '$fileName' -o '$fileNameWithoutExt.exe' -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32; if ($LASTEXITCODE -eq 0) { & '.\\$fileNameWithoutExt.exe' } } else { gcc '$fileName' -o '$fileNameWithoutExt.exe'; if ($LASTEXITCODE -eq 0) { & '.\\$fileNameWithoutExt.exe' } }\"",
         "cpp": "cd $dir && g++ $fileName -o $fileNameWithoutExt.exe -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32 && $dir$fileNameWithoutExt.exe"
     },
     "code-runner.runInTerminal": true,
