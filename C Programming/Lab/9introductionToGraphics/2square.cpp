@@ -1,1 +1,0 @@
-Lab 9.2: Write a program to draw square with each side 200 units and coordinate of top left corner (50,50)
