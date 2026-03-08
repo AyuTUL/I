@@ -1,2 +1,0 @@
-11.	Copper has a FCC structure with a one atom basis. The density of copper is 8.96 gcm-3 and its atomic weight is 63.5 g mole-1. What is the length if the unit cube of the structure?
-The reverse saturation current of a Silicon diode doubles when the temperature increases from 270C to 330C. What is the position of the Fermi level on the p-side of the Junction?

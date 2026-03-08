@@ -1,1 +1,0 @@
-6.	Design a combinational circuit that multiplies 2-bit numbers, a1a0 and b1b0 to produce a 4-bit product, c3c2c1c0. Use AND gates and half-adders.
